@@ -1,6 +1,6 @@
 # Three Squares
 
-A combination of three separate repos from a project from Summer, 2019. The inspiration was that not all integers an be formed by the sum of three squares, yet energy levels in a 3D potential well can only be formed by the sum of three squared intgers. It may therefore be a possibility that some levels are inaccessible, paricularly lower ones.
+A combination of three separate repos from a project from Summer, 2019. The inspiration was that not all integers can be formed by the sum of three squares, yet energy levels in a 3D potential well can only be formed by the sum of three squared intgers. It may therefore be a possibility that some levels are inaccessible.
 
 ## Python
 main.py calculates and prints the combinations of each integer that is the sum of three squares, as well as determining `a` and `b` for the equation `n = (8^a)(b+7)`, where n is the integer for which `n = x^2 + y^2 + z^2`. 
